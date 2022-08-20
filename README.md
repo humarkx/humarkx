@@ -47,9 +47,15 @@ Beside's Hacking stuff, I enjoy doing side projects to keep learning new stuff.
 ## 🔥  My Github Stats
 
 <p align="center">
-<a href="https://github.com/humarkx"><img alt="Humarkx Github Stats" src="https://github-readme-stats.vercel.app/api?username=humarkx&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" height="192px" /></a>
-<a href="https://github.com/humarkx"><img alt="Humarkx Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humarkx&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/humarkx"><img alt="Humarkx Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=humarkx&theme=dracula&hide_border=true&background=1F222E&currStreakNum=DDDDDD&currStreakLabel=F85D7F" height="192px"/></a>
+<a href="https://github.com/humarkx">
+<img alt="Humarkx Github Stats" src="https://github-readme-stats.vercel.app/api?username=humarkx&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="170px"/>
+</a>
+<a href="https://github.com/humarkx">
+<img alt="Humarkx Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humarkx&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="170px" width=400/>
+</a>
+<a href="https://github.com/humarkx">
+<img alt="Humarkx Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=humarkx&theme=dracula&hide_border=true&background=1F222E&currStreakNum=DDDDDD&currStreakLabel=F85D7F" height="170px"/>
+</a>
 <br/>
 <br/>
 
