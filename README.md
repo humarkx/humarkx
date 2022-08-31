@@ -32,10 +32,10 @@ Beside's Hacking stuff, I enjoy doing side projects to keep learning new stuff.
 
 - 🔭 I’m currently working as a web and mobile developer.
 - 🌱 I’m currently learning SolidJS & Go
-- 👯 I’m looking for collaborators who wants to be a part of esports driven product
+- 👯 I’m looking for collaborators who want to be a part of an esports driven product
 - 🤔 I need help with marketing and design
 - 💬 Ask me about anything, if I don't know, I will learn and answer you
-- 📫 Reach me trough linkedin/twitter
+- 📫 Reach me through linkedin/twitter
 
 
 <br/>
