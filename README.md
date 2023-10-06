@@ -191,6 +191,6 @@ Beside's Hacking stuff, I enjoy doing side projects to keep learning new stuff.
 </p>
 
 [Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+[GitHub Profile Views Counter]: https://github.com/humarkx
 
-![](https://hit.yhype.me/github/profile?user_id=1849174)
+![](https://hit.yhype.me/github/profile?user_id=13049940)
