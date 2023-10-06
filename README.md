@@ -192,4 +192,7 @@ Beside's Hacking stuff, I enjoy doing side projects to keep learning new stuff.
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 
+![](https://hit.yhype.me/github/profile?user_id=1849174)
