@@ -77,8 +77,9 @@ Beside's Hacking stuff, I enjoy doing side projects to keep learning new stuff.
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/humarkx"/></a>
   <a href="https://github.com/humarkx?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/humarkx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/humarkx">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=humarkx&style=for-the-badge"/></a>
+ ![](https://komarev.com/ghpvc/?username=humarx)
+
+  
 </p>
 
 <br/>
