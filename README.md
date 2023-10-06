@@ -78,7 +78,7 @@ Beside's Hacking stuff, I enjoy doing side projects to keep learning new stuff.
   <a href="https://github.com/humarkx?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/humarkx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/humarkx">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=humarkx&style=for-the-badge">
 </a>
 </p>
 
