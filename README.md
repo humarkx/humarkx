@@ -64,7 +64,7 @@ Beside's Hacking stuff, I enjoy doing side projects to keep learning new stuff.
 
 ## ⚡ Recent GitHub Activity
 
-<a href="https://github.com/humarkx"><img alt="Humarkx Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=humarkx&custom_titleHumarkx%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/humarkx"><img alt="Humarkx Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=humarkx&custom_titleHumarkx%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
